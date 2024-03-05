@@ -19,6 +19,16 @@ This repository contains the source code for a Flutter application designed to m
 - **`lib/widgets/new_item.dart`**: Implements the UI for adding a new item to the shopping list.
 - **`lib/widgets/grocery_list.dart`**: Implements the UI for displaying the shopping list.
 
+### Screenshots 
+# Grocery List
+<img src="lib/assets/image1.png" alt="Grocery List" style="width:400px;">
+
+# Grocery New Item
+<img src="lib/assets/image2.png" alt="Grocery List" style="width:400px;">
+
+# Grocery New Item Example
+<img src="lib/assets/image3.png" alt="Grocery List" style="width:400px;">
+
 ### Widgets
 #### New Item Widget
 - **Description**: This widget allows users to add a new item to the shopping list.
@@ -57,7 +67,7 @@ This repository contains the source code for a Flutter application designed to m
 - Your pull request will be reviewed, and upon approval, it will be merged into the main branch.
 
 ### Contributors
-- [Your Name](https://github.com/yourusername) - Developer
+- [Davis](https://github.com/davis9707) - Developer
 
 ### License
 This project is licensed under the [MIT License](LICENSE.md).
